@@ -1,7 +1,0 @@
-# Wait 60 seconds before connecting using these details, or login to https://console.neo4j.io to validate the Aura Instance is available
-NEO4J_URI=neo4j+s://4fa2400b.databases.neo4j.io
-NEO4J_USERNAME=4fa2400b
-NEO4J_PASSWORD=s1tm47dRwfaIsbSAXgmbiz2geR8pbWsmIsADA9UCy1Q
-NEO4J_DATABASE=4fa2400b
-AURA_INSTANCEID=4fa2400b
-AURA_INSTANCENAME=the-human-graph-api
